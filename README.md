@@ -17,7 +17,7 @@ Code: https://github.com/jiuntian/interactdiffusion
 ### Paper: https://arxiv.org/abs/2311.17002
 Code: https://github.com/ali-vilab/Ranni
 
-## Other:Scene Graph Generation
+## Other:  Scene Graph Generation
 HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation
 ### Paper : https://arxiv.org/abs/2403.12033
 Code: https://github.com/zhangce01/HiKER-SGG
